@@ -54,3 +54,32 @@ Then install it & it's plugins with:
 | new vertical | space + v |
 | new window | space + w |
 | update nvchad | space + u + u |
+
+#### Plugins related mappings
+| Action | Key |
+| :----: | :----: |
+| BUFFERLINE | 
+| next buffer | tab |
+| prev buffer | shift + tab |
+| ----------- | ----------- |
+| DASHBOARD |
+| bookmarks | space + b + m |
+| new file | space + f + n |
+| open | space + d + b |
+| find file | space + f + f |
+| session load | space + l |
+| session save | space + s |
+| ----------- | ----------- |
+| BETTER ESCAPE |
+| esc insertmode | jk |
+| ----------- | ----------- |
+| FILE TREE/EXPLORER |
+| toggle | space + t |
+| focus	| space + e |
+| universal code formatter |
+| format | space + f + m |
+| ----------- | ----------- |
+| OTHER |
+| undotree | space + u |
+| vista | space + f |
+| visual-multi | ctrl + n |
