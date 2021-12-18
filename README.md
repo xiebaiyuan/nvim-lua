@@ -6,14 +6,14 @@ My configuration is based on [nvchad](https://github.com/NvChad/NvChad), which i
 It is recommended that those who are able to do so can configure themselves through this framework.
 
 ### Showcase
-![首页](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/首页.3g1ggj5xterk.png)
-![望远镜](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/望远镜.1essddfcj4rk.png)
-![演示1](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/演示1.74lm39g7fyww.png)
-![演示2](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/演示2.6k8xy3cwpkzk.png)
-![演示3](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/演示3.6mnotxhh91mo.png)
-![演示4](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/演示4.6k2qmpcr55og.png)
-![演示5](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/演示5.58magvr69ri8.png)
-![演示6](https://raw.githubusercontent.com/Eatsolx/image/master/nvim-lua/演示6.6ynqzr7583r4.png)
+![首页](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/首页.1yxhe6nldqbk.png)
+![望远镜](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/望远镜.1essddfcj4rk.png)
+![演示1](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/演示1.74lm39g7fyww.png)
+![演示2](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/演示2.6k8xy3cwpkzk.png)
+![演示3](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/演示3.6mnotxhh91mo.png)
+![演示4](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/演示4.6k2qmpcr55og.png)
+![演示5](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/演示5.58magvr69ri8.png)
+![演示6](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/演示6.6ynqzr7583r4.png)
 
 ### Install
 Install it & it's plugins with:
