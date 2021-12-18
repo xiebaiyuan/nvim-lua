@@ -3,6 +3,7 @@
 ### Introduction
 My configuration is based on [nvchad](https://github.com/NvChad/NvChad), which is a great framework and highly recommended to get to know.
 
+It is recommended that those who are able to do so can configure themselves through this framework.
 
 ### Install
 Install it & it's plugins with:
@@ -10,9 +11,10 @@ Install it & it's plugins with:
     git clone https://github.com/Eatsolx/nvim-lua
     cd nvim-lua/script
     sh install.sh
-It will save your own configuration to ~/.config/NVIM.BAK
 
-### Usage
+It will backup your original configuration to ~/.config/NVIM.BAK
+
+### Usage  (Incomplete)
 
 #### Non plugin mappings
 |  Action | Key  |
