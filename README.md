@@ -10,7 +10,7 @@ Install it & it's plugins with:
     git clone https://github.com/Eatsolx/nvim-lua
     cd nvim-lua/script
     sh install.sh
-It will save your own configuration to ~/.config/NVIM.BACK
+It will save your own configuration to ~/.config/NVIM.BAK
 
 ### Usage
 
