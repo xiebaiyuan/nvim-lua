@@ -5,14 +5,12 @@ My configuration is based on [nvchad](https://github.com/NvChad/NvChad), which i
 
 
 ### Install
-If you already have a ~/.config/nvim folder, make a backup with:
+Install it & it's plugins with:
 
-    mv ~/.config/nvim ~/.config/NVIM.BAK
-
-Then install it & it's plugins with:
-
-    git clone https://github.com/Eatsolx/nvim-lua ~/.config/nvim
-    nvim +'hi NormalFloat guibg=#1e222a' +PackerSync
+    git clone https://github.com/Eatsolx/nvim-lua
+    cd nvim-lua/script
+    sh install.sh
+It will save your own configuration to ~/.config/NVIM.BACK
 
 ### Usage
 
