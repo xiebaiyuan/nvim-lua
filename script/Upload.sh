@@ -10,5 +10,6 @@ rm -f ~/Desktop/nvim-lua/script/Upload.sh
 cp script/Upload.sh ~/Desktop/nvim-lua/script/
 cp script/install.sh ~/Desktop/nvim-lua/script/
 cd ~/Desktop/nvim-lua/
+git remote set-url origin git@github.com:Eatsolx/nvim-lua.git
 echo "复制成功"
 read -s -n1 -p "按任意键继续 ... "
