@@ -51,16 +51,6 @@ hooks.add("install_plugins", function(use)
     "farmergreg/vim-lastplace"
   }
 
-  -- 一键格式化
-  use {
-    "mhartington/formatter.nvim",
-    opt = true,
-    ft = "cpp",
-    config = function ()
-      require("custom.configs.format")
-    end,
-  }
-
   -- 快速注释
   use {
     "tpope/vim-commentary",
@@ -86,6 +76,7 @@ hooks.add("install_plugins", function(use)
     keys = {"c", "d"},
   }
 
+  -- 快速选中
   use {
     "gcmt/wildfire.vim",
     keys = "<CR>",
@@ -103,6 +94,14 @@ hooks.add("install_plugins", function(use)
     "Chiel92/vim-autoformat",
     cmd = "Autoformat",
   }
+  -- use {
+  --   "mhartington/formatter.nvim",
+  --   opt = true,
+  --   ft = "cpp",
+  --   config = function ()
+  --     require("custom.configs.format")
+  --   end,
+  -- }
 
   -- 快速分析启动时间
   use {
