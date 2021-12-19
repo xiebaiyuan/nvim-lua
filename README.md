@@ -95,6 +95,9 @@ If you encounter nvim-treesitter error when using please refer to -> [this](http
 | undotree | space + u |
 | vista | space + f |
 | visual-multi | ctrl + n |
+| file-build | F8 |
+| file-run | F9 |
+| file-run & build | F10 |
 
 <h3 align="center"> ✨ For more information, please refer to nvchad's website ✨ </h3>
 

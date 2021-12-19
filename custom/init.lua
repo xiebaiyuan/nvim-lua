@@ -116,6 +116,7 @@ hooks.add("install_plugins", function(use)
     cmd = "SudaWrite",
   }
 
+  -- 现代任务系统
   use {
     "skywind3000/asynctasks.vim",
     requires = "skywind3000/asyncrun.vim",
