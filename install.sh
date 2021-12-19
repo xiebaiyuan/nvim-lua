@@ -1,9 +1,9 @@
 #!/bin/bash
 
 mv ~/.config/nvim ~/.config/NVIM.BAK
-mv NvChad/git NvChad/.git
-mv NvChad/github NvChad/.github
 cp -r NvChad ~/.config/nvim
+mv ~/.config/nvim/git ~/.config/nvim/.git
+mv ~/.config/nvim/github ~/.config/nvim/.github
 cp -r custom ~/.config/nvim/lua
 cp install.sh ~/.config/nvim/NvChad/
 cp Upload.sh ~/.config/nvim/NvChad/
