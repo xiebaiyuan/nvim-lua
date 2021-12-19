@@ -19,7 +19,7 @@ It is recommended that those who are able to do so can configure themselves thro
 Install it & it's plugins with:
 
     git clone https://github.com/Eatsolx/nvim-lua
-    cd nvim-lua/script
+    cd nvim-lua
     sh install.sh
 
 It will backup your original configuration to ~/.config/NVIM.BAK
