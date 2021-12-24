@@ -86,14 +86,14 @@ If you encounter nvim-treesitter error when using please refer to -> [this](http
 | esc insertmode | jk |
 | ----------- | ----------- |
 | FILE TREE/EXPLORER |
-| toggle | space + t |
+| toggle | Alt + t |
 | focus	| space + e |
 | universal code formatter |
 | format | space + f + m |
 | ----------- | ----------- |
 | OTHER |
-| undotree | space + u |
-| vista | space + f |
+| undotree | Alt + u |
+| vista | Alt + f |
 | visual-multi | ctrl + n |
 | file-build | F8 |
 | file-run | F9 |

@@ -38,10 +38,10 @@ nmap('<left>', ':vertical resize-5<CR>')
 nmap('<right>', ':vertical resize+5<CR>')
 
 -- 历史修改记录
-nmap('<leader>u', ':UndotreeToggle<CR>')
+nmap('<A-u>', ':UndotreeToggle<CR>')
 
 -- 文件树
-nmap('<leader>t', ':NvimTreeToggle<CR>')
+nmap('<A-t>', ':NvimTreeToggle<CR>')
 
 -- 格式化
 nmap('<leader>fm', ':Autoformat<CR>')
@@ -58,7 +58,7 @@ nmap('<F9>', ':w<CR> | :AsyncTask file-run<CR>')
 nmap('<F10>', ':w<CR> | :AsyncTask file-build<CR> | :AsyncTask file-run<CR>')
 
 -- 开启/关闭函数列表
-nmap('<leader>f', ':Vista<CR>')
+nmap('<A-f>', ':Vista<CR>')
 
 -- 替换默认绑定
 local hooks = require "core.hooks"
