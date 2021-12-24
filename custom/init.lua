@@ -135,6 +135,12 @@ hooks.add("install_plugins", function(use)
     ft = "markdown",
   }
 
+  -- 制作markdown表格
+  use {
+    "dhruvasagar/vim-table-mode",
+    cmd = "TableModeToggle",
+  }
+
 end)
 
 -- alternatively, put this in a sub-folder like "lua/custom/plugins/mkdir"

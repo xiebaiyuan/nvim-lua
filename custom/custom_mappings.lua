@@ -60,6 +60,9 @@ nmap('<F10>', ':w<CR> | :AsyncTask file-build<CR> | :AsyncTask file-run<CR>')
 -- 开启/关闭函数列表
 nmap('<A-f>', ':Vista<CR>')
 
+-- 创建表格
+nmap('<leader>tm', ':TableModeToggle<CR>')
+
 -- 替换默认绑定
 local hooks = require "core.hooks"
 
