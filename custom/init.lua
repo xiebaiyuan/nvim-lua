@@ -135,6 +135,12 @@ hooks.add("install_plugins", function(use)
     cmd = "TableModeToggle",
   }
 
+  -- 管理笔记插件
+  use {
+    "vimwiki/vimwiki",
+    ft = "markdown",
+  }
+
 end)
 
 -- alternatively, put this in a sub-folder like "lua/custom/plugins/mkdir"
