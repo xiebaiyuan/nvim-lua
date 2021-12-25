@@ -95,6 +95,12 @@ If you encounter nvim-treesitter error when using please refer to -> [this](http
 | universal code formatter |               |
 | format                   | space + f + m |
 |--------------------------|---------------|
+| TABLE-MODE               |               |
+| toggle                   | space + t + m |
+|--------------------------|---------------|
+| MARKDOEN PREVIEW         |               |
+| toggle                   | Alt + r       |
+|--------------------------|---------------|
 | OTHER                    |               |
 | undotree                 | Alt + u       |
 | vista                    | Alt + f       |

@@ -63,6 +63,9 @@ nmap('<A-f>', ':Vista<CR>')
 -- 创建表格
 nmap('<leader>tm', ':TableModeToggle<CR>')
 
+-- markdown预览
+nmap('<A-r>', ':MarkdownPreviewToggle<CR>')
+
 -- 替换默认绑定
 local hooks = require "core.hooks"
 
