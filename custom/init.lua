@@ -51,12 +51,6 @@ hooks.add("install_plugins", function(use)
     "farmergreg/vim-lastplace"
   }
 
-  -- 快速注释
-  use {
-    "tpope/vim-commentary",
-    keys = "g",
-  }
-
   -- 历史修改记录
   use {
         "mbbill/undotree",
