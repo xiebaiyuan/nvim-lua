@@ -1,4 +1,4 @@
--- 简化绑定格式
+-- 简化按键映射
 function map(mode, shortcut, command)
   vim.api.nvim_set_keymap(mode, shortcut, command, { noremap = true, silent = true })
 end

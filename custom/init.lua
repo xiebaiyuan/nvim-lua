@@ -141,6 +141,12 @@ hooks.add("install_plugins", function(use)
     ft = "markdown",
   }
 
+  -- 自动切换输入法
+  use {
+    "lilydjwg/fcitx.vim",
+    keys = {'i', 'a', 'I', 'A', 'c', 'o', 'O'},
+  }
+
 end)
 
 -- alternatively, put this in a sub-folder like "lua/custom/plugins/mkdir"
