@@ -5,6 +5,8 @@ My configuration is based on [nvchad](https://github.com/NvChad/NvChad), which i
 
 It is recommended that those who are able to do so can configure themselves through this framework.
 
+我在Bilibili的教学视频：[BV1XY411H71M](https://www.bilibili.com/video/BV1XY411H71M/)
+
 ### Showcase
 ![首页](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/首页.1yxhe6nldqbk.png)
 ![望远镜](https://cdn.jsdelivr.net/gh/Eatsolx/image@master/nvim-lua/望远镜.1essddfcj4rk.png)

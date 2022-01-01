@@ -67,7 +67,7 @@ hooks.add("install_plugins", function(use)
   -- 增删改引号
   use {
     "tpope/vim-surround",
-    keys = {"c", "d"},
+    keys = {"c", "d", "S"},
   }
 
   -- 快速选中
@@ -133,12 +133,6 @@ hooks.add("install_plugins", function(use)
   use {
     "dhruvasagar/vim-table-mode",
     cmd = "TableModeToggle",
-  }
-
-  -- 管理笔记插件
-  use {
-    "vimwiki/vimwiki",
-    ft = "markdown",
   }
 
   -- 自动切换输入法
