@@ -1,13 +1,10 @@
--- IMPORTANT NOTE : This is the user config, can be edited. Will be preserved if updated with internal updater
--- This file is for NvChad options & tools, custom settings are split between here and 'lua/custom/init.lua'
-
 local M = {}
 
 M.options = {
    -- custom = {}
    -- general nvim/vim options , check :h optionname to know more about an option
 
-   clipboard = "unnamedplus",
+   clipboard = "",
    cmdheight = 1,
    ruler = false,
    hidden = true,
